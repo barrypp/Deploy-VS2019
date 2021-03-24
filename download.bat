@@ -1,0 +1,1 @@
+vs_Enterprise.exe --layout ./vs_layout --add Microsoft.VisualStudio.Workload.CoreEditor;includeOptional;includeRecommended --add Microsoft.VisualStudio.Workload.NativeDesktop;includeOptional;includeRecommended --add Microsoft.VisualStudio.Workload.NativeCrossPlat;includeOptional;includeRecommended --lang zh-CN
